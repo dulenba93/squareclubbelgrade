@@ -2,7 +2,19 @@
 
 
 
+
+
+
+
 @extends('layouts.master')
+
+
+
+
+
+
+
+
 
 
 
@@ -18,7 +30,23 @@
 
 
 
+
+
+
+
+
+
+
+
 @stop
+
+
+
+
+
+
+
+
 
 
 
@@ -30,7 +58,15 @@
 
 
 
+
+
+
+
 <!-- =============== START BREADCRUMB ================ -->
+
+
+
+
 
 
 
@@ -38,7 +74,15 @@
 
 
 
+
+
+
+
     <div class="row">
+
+
+
+
 
 
 
@@ -46,7 +90,15 @@
 
 
 
+
+
+
+
             <div class="breadcrumb-fullscreen-parent phone-menu-bg">
+
+
+
+
 
 
 
@@ -54,7 +106,15 @@
 
 
 
+
+
+
+
                     <div class="starTitle starVideo">
+
+
+
+
 
 
 
@@ -62,7 +122,15 @@
 
 
 
+
+
+
+
                         <div class="grid__item">
+
+
+
+
 
 
 
@@ -70,7 +138,15 @@
 
 
 
+
+
+
+
                                 <div class="link link-yaku">
+
+
+
+
 
 
 
@@ -78,7 +154,15 @@
 
 
 
+
+
+
+
                                     <span><img src="<?php echo url("") ?>/images/qlogo.png" alt="" class="s logo" style="height: 70px; width: 70px;"></span>
+
+
+
+
 
 
 
@@ -86,7 +170,15 @@
 
 
 
+
+
+
+
                                     <span><img src="<?php echo url("") ?>/images/alogo.png" alt="" class="s logo" style="height: 70px; width: 70px;"></span>
+
+
+
+
 
 
 
@@ -94,7 +186,15 @@
 
 
 
+
+
+
+
                                     <span><img src="<?php echo url("") ?>/images/elogo.png" alt="" class="s logo" style="height: 70px; width: 70px;"></span>
+
+
+
+
 
 
 
@@ -102,7 +202,15 @@
 
 
 
+
+
+
+
                             </h1>
+
+
+
+
 
 
 
@@ -110,7 +218,15 @@
 
 
 
+
+
+
+
                         <h1 id="mainTitle">Belgrade +381 69 20 10 110</h1>
+
+
+
+
 
 
 
@@ -118,7 +234,15 @@
 
 
 
+
+
+
+
                 <div id="bgndVideo" class="player" data-property="{videoURL:'https://youtu.be/yU7u0x6LA3Q',containment:'.player',autoPlay:true, mute:true, startAt:0, opacity:1}"></div> 
+
+
+
+
 
 
 
@@ -126,7 +250,15 @@
 
 
 
+
+
+
+
             </div>
+
+
+
+
 
 
 
@@ -134,7 +266,15 @@
 
 
 
+
+
+
+
     </div>
+
+
+
+
 
 
 
@@ -142,11 +282,27 @@
 
 
 
+
+
+
+
 <!-- =============== END BREADCRUMB ================ -->
 
 
 
+
+
+
+
 @stop
+
+
+
+
+
+
+
+
 
 
 
@@ -158,7 +314,15 @@
 
 
 
+
+
+
+
 @section('sidebar')
+
+
+
+
 
 
 
@@ -166,7 +330,15 @@
 
 
 
+
+
+
+
     <div id="menu" class="menu-fixed-container">
+
+
+
+
 
 
 
@@ -174,19 +346,39 @@
 
 
 
+
+
+
+
             <div class="x-filter">
 
 
 
+
+
+
+
                 <span></span>
 
 
 
+
+
+
+
                 <span></span>
+
+
+
+
 
 
 
             </div>
+
+
+
+
 
 
 
@@ -194,7 +386,15 @@
 
 
 
+
+
+
+
                 <li><a href="#home">home</a></li>
+
+
+
+
 
 
 
@@ -202,7 +402,15 @@
 
 
 
+
+
+
+
                 <li><a href="#events">events</a></li>
+
+
+
+
 
 
 
@@ -210,7 +418,15 @@
 
 
 
+
+
+
+
                 <li><a href="#news">news from the club</a></li>
+
+
+
+
 
 
 
@@ -218,7 +434,15 @@
 
 
 
+
+
+
+
                 <li><a href="#videos">video gallery</a></li>
+
+
+
+
 
 
 
@@ -226,7 +450,15 @@
 
 
 
+
+
+
+
                 <li><a href="#location">location</a></li>
+
+
+
+
 
 
 
@@ -234,7 +466,15 @@
 
 
 
+
+
+
+
             </ul>
+
+
+
+
 
 
 
@@ -242,11 +482,23 @@
 
 
 
+
+
+
+
                 <span></span>
 
 
 
+
+
+
+
                 <span></span>
+
+
+
+
 
 
 
@@ -254,11 +506,23 @@
 
 
 
+
+
+
+
         </nav>
 
 
 
+
+
+
+
     </div>    
+
+
+
+
 
 
 
@@ -270,15 +534,35 @@
 
 
 
+
+
+
+
+
+
+
+
 @section('content')
+
+
+
+
 
 
 
 <!-- =============== START NEW YEAR SECTION ================ -->
 
+
+
 <!--
 
+
+
 <section id="new-year" class="shopHomePage padding hide-section">
+
+
+
+
 
 
 
@@ -286,7 +570,15 @@
 
 
 
+
+
+
+
         <div class="container-fluid">
+
+
+
+
 
 
 
@@ -294,7 +586,15 @@
 
 
 
+
+
+
+
                 <div class="sectionTitle paddingBottom">
+
+
+
+
 
 
 
@@ -302,7 +602,15 @@
 
 
 
+
+
+
+
                     <h2>NEW YEAR'S</h2>
+
+
+
+
 
 
 
@@ -310,11 +618,23 @@
 
 
 
+
+
+
+
                 </div><!-- end sectionTtile -->	
 
 
+
+
+
 <!--
+
                 <div class="row">
+
+
+
+
 
 
 
@@ -322,7 +642,15 @@
 
 
 
+
+
+
+
                         <nav class="shop-products">
+
+
+
+
 
 
 
@@ -330,11 +658,23 @@
 
 
 
+
+
+
+
                                 <li class="">
 
 
 
+
+
+
+
                                     <figure>
+
+
+
+
 
 
 
@@ -342,7 +682,15 @@
 
 
 
+
+
+
+
                                             <figcaption>
+
+
+
+
 
 
 
@@ -350,7 +698,15 @@
 
 
 
+
+
+
+
                                             </figcaption>
+
+
+
+
 
 
 
@@ -358,11 +714,23 @@
 
 
 
+
+
+
+
                                                 <div class="eventHover">
 
 
 
+
+
+
+
                                                     <div class="event">
+
+
+
+
 
 
 
@@ -370,11 +738,23 @@
 
 
 
+
+
+
+
                                                     </div>
 
 
 
+
+
+
+
                                                     <div class="fixLine"></div>
+
+
+
+
 
 
 
@@ -382,7 +762,15 @@
 
 
 
+
+
+
+
                                                     <div class="evSubtitle">R'n'B | Hip Hop | House | The Nineties </div>
+
+
+
+
 
 
 
@@ -390,7 +778,15 @@
 
 
 
+
+
+
+
                                                         <div  class="evTitle"> date </div>
+
+
+
+
 
 
 
@@ -398,7 +794,15 @@
 
 
 
+
+
+
+
                                                     </div>
+
+
+
+
 
 
 
@@ -406,7 +810,15 @@
 
 
 
+
+
+
+
                                             </div>
+
+
+
+
 
 
 
@@ -414,11 +826,23 @@
 
 
 
+
+
+
+
                                     </figure>
 
 
 
+
+
+
+
                                 </li>
+
+
+
+
 
 
 
@@ -426,7 +850,15 @@
 
 
 
+
+
+
+
                                     <figure>
+
+
+
+
 
 
 
@@ -434,7 +866,15 @@
 
 
 
+
+
+
+
                                             <figcaption>
+
+
+
+
 
 
 
@@ -442,7 +882,15 @@
 
 
 
+
+
+
+
                                             </figcaption>
+
+
+
+
 
 
 
@@ -450,7 +898,15 @@
 
 
 
+
+
+
+
                                                 <div class="eventHover">
+
+
+
+
 
 
 
@@ -458,11 +914,23 @@
 
 
 
+
+
+
+
                                                         Total RNB Night
 
 
 
+
+
+
+
                                                     </div>
+
+
+
+
 
 
 
@@ -470,7 +938,15 @@
 
 
 
+
+
+
+
                                                     <div  class="evTitle"> SUNDAY  </div>
+
+
+
+
 
 
 
@@ -478,7 +954,15 @@
 
 
 
+
+
+
+
                                                     <div class="dateOfParty"> 
+
+
+
+
 
 
 
@@ -486,7 +970,15 @@
 
 
 
+
+
+
+
                                                         01/01/2017 
+
+
+
+
 
 
 
@@ -494,7 +986,15 @@
 
 
 
+
+
+
+
                                                 </div>
+
+
+
+
 
 
 
@@ -502,7 +1002,15 @@
 
 
 
+
+
+
+
                                         </a>
+
+
+
+
 
 
 
@@ -510,7 +1018,15 @@
 
 
 
+
+
+
+
                                 </li>
+
+
+
+
 
 
 
@@ -518,7 +1034,15 @@
 
 
 
+
+
+
+
                         </nav>
+
+
+
+
 
 
 
@@ -526,7 +1050,15 @@
 
 
 
+
+
+
+
                     <div class="col-sm-6 col-sm-offset-1">
+
+
+
+
 
 
 
@@ -534,7 +1066,15 @@
 
 
 
+
+
+
+
                             <h3>CLUB SQUARE</h3>
+
+
+
+
 
 
 
@@ -542,7 +1082,15 @@
 
 
 
+
+
+
+
                             
+
+
+
+
 
 
 
@@ -550,7 +1098,15 @@
 
 
 
+
+
+
+
                                 <h4>If You wish to reserve Your place with us for New Year's Eve, please contact us.</h4> 
+
+
+
+
 
 
 
@@ -558,7 +1114,15 @@
 
 
 
+
+
+
+
                             <div class="contactInfo">
+
+
+
+
 
 
 
@@ -566,7 +1130,15 @@
 
 
 
+
+
+
+
                                     <li>
+
+
+
+
 
 
 
@@ -574,7 +1146,15 @@
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -582,7 +1162,15 @@
 
 
 
+
+
+
+
                                         VIP entry, VIP table & 4 bottles included: 2 Piper Heidsieck champagne 
+
+
+
+
 
 
 
@@ -590,7 +1178,15 @@
 
 
 
+
+
+
+
                                     </li>
+
+
+
+
 
 
 
@@ -598,11 +1194,23 @@
 
 
 
+
+
+
+
                                         <span>VIP LOUNGE / SITTING PACKAGE</span>
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -610,7 +1218,15 @@
 
 
 
+
+
+
+
                                         VIP entry, VIP table & 2 bottles included: 1 Piper Heidsieck champagne 
+
+
+
+
 
 
 
@@ -618,11 +1234,23 @@
 
 
 
+
+
+
+
                                     </li>
 
 
 
+
+
+
+
                                     <li>
+
+
+
+
 
 
 
@@ -630,7 +1258,15 @@
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -638,7 +1274,15 @@
 
 
 
+
+
+
+
                                         VIP entry, VIP table & 2 bottles included: 1 Piper Heidsieck champagne 
+
+
+
+
 
 
 
@@ -646,7 +1290,15 @@
 
 
 
+
+
+
+
                                     </li>
+
+
+
+
 
 
 
@@ -654,7 +1306,15 @@
 
 
 
+
+
+
+
                                         <span>BIG VIP SITTING BAR TABLE PACKAGE</span>
+
+
+
+
 
 
 
@@ -662,11 +1322,23 @@
 
 
 
+
+
+
+
                                         Price is 300 eur (included 7 tickets + 
 
 
 
+
+
+
+
                                         Vip entry, Bar table in VIP area & 1 premium bottle included belvedere 
+
+
+
+
 
 
 
@@ -678,11 +1350,27 @@
 
 
 
+
+
+
+
+
+
+
+
                                     </li>
 
 
 
+
+
+
+
                                     <li>
+
+
+
+
 
 
 
@@ -690,7 +1378,15 @@
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -698,7 +1394,15 @@
 
 
 
+
+
+
+
                                         Vip entry, VIP Bar table in VIP area & 1 premium bottle included 
+
+
+
+
 
 
 
@@ -706,11 +1410,23 @@
 
 
 
+
+
+
+
                                     </li>
 
 
 
+
+
+
+
                                     <li>
+
+
+
+
 
 
 
@@ -718,7 +1434,15 @@
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -726,7 +1450,15 @@
 
 
 
+
+
+
+
                                         Absolut / Balantines / Gin / Jeger / Tequila / Martini)
+
+
+
+
 
 
 
@@ -734,7 +1466,15 @@
 
 
 
+
+
+
+
                                     <li>
+
+
+
+
 
 
 
@@ -742,7 +1482,15 @@
 
 
 
+
+
+
+
                                         <br />
+
+
+
+
 
 
 
@@ -750,7 +1498,15 @@
 
 
 
+
+
+
+
                                     </li>                                               
+
+
+
+
 
 
 
@@ -758,7 +1514,15 @@
 
 
 
+
+
+
+
                             </div>                                                      
+
+
+
+
 
 
 
@@ -766,7 +1530,15 @@
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -774,7 +1546,15 @@
 
 
 
+
+
+
+
             </div>
+
+
+
+
 
 
 
@@ -782,15 +1562,35 @@
 
 
 
+
+
+
+
     </div>
+
+
+
+
 
 
 
 </section>
 
+
+
 //-->
 
+
+
 <!-- =============== END NEW YEAR SECTION ================ -->
+
+
+
+
+
+
+
+
 
 
 
@@ -802,216 +1602,433 @@
 
 
 
+
+
+
+
 <section id="events" class="shopHomePage padding hide-section">
+
+
 
     <div class="shopSection">
 
+
+
         <div class="container-fluid">
+
+
 
             <div class="shopContent">
 
+
+
                 <div class="sectionTitle paddingBottom">
+
+
 
                     <span class="heading-t3"></span>
 
+
+
                     <h2>EVENTS</h2>
+
+
 
                     <span class="heading-b3"></span>
 
+
+
                 </div><!-- end sectionTtile -->	
+
+
 
                 <div class="row">
 
+
+
                     <nav class="shop-products">
 
+
+
                         <ul class="clearfix">
+
                             
+
                             <li class="col-sm-3">
 
+
+
                                 <figure>
+
+
 
                                     <a href="{{ route("album", ["album" => "02022017"]) }}" class="info">
 
+
+
                                         <figcaption>
+
+
 
                                             <img src="<?php echo url("") ?>/images/events/thursday.png" alt="">
 
+
+
                                         </figcaption>
+
+
 
                                         <div class="content">
 
+
+
                                             <div class="eventHover">
 
+
+
                                                 <div class="event">
+
+
 
                                                     The NINETIES
 
+
+
                                                 </div>
 
+
+
                                                 <div class="fixLine"></div>
+
+
 
                                                 <div  class="evTitle">   THURSDAY </div>
 
+
+
                                                 <div class="evSubtitle">DJ ALEX TIC</div>
+
+
 
                                                 <div class="dateOfParty"> 
 
+
+
                                                     <div  class="evTitle"> next </div>
+
+
 
 							  09/02/2017 
 
+
+
                                                 </div>
+
+
 
                                             </div>
 
+
+
                                         </div>
+
+
 
                                     </a>
 
+
+
                                 </figure>
+
+
 
                             </li>
 
+
+
                             <li class="col-sm-3">
 
+
+
                                 <figure>
+
+
 
                                     <a href="{{ route("album", ["album" => "03022017"]) }}" class="info">
 
+
+
                                         <figcaption>
+
+
 
                                             <img src="<?php echo url("") ?>/images/events/friday.png" alt="">
 
+
+
                                         </figcaption>
+
+
 
                                         <div class="content">
 
+
+
                                             <div class="eventHover">
 
+
+
                                                 <div class="event">
+
+
 
                                                     POP ROCK HITS
 
+
+
                                                 </div>
 
+
+
                                                 <div class="fixLine"></div>
+
+
 
                                                 <div  class="evTitle"> FRIDAY </div>
 
+
+
                                                 <div class="evSubtitle">Scandal Band</div>
+
+
 
                                                 <div class="dateOfParty"> 
 
+
+
                                                     <div  class="evTitle"> next </div>
+
+
 
                                                     10/02/2017 
 
+
+
                                                 </div>
+
+
 
                                             </div>
 
+
+
                                         </div>
+
+
 
                                     </a>
 
+
+
                                 </figure>
+
+
 
                             </li>
 
+
+
                             <li class="col-sm-3">
 
+
+
                                 <figure>
+
+
 
                                     <a href="{{ route("album", ["album" => "04022017"]) }}" class="info">
 
+
+
                                         <figcaption>
+
+
 
                                             <img src="<?php echo url("") ?>/images/events/saturday.png" alt="">
 
+
+
                                         </figcaption>
+
+
 
                                         <div class="content">
 
+
+
                                             <div class="eventHover">
 
+
+
                                                 <div class="event">
+
+
 
                                                         Blood & mode
 
+
+
                                                 </div>
 
+
+
                                                 <div class="fixLine"></div>
+
+
 
                                                 <div  class="evTitle"> SATURDAY </div>
 
+
+
                                                 <div class="evSubtitle"> MARK FUNK  </div>
+
+
 
                                                 <div class="dateOfParty"> 
 
+
+
                                                     <div  class="evTitle"> next </div>
+
+
 
                                                     11/02/2017 
 
+
+
                                                 </div>
+
+
 
                                             </div>
 
+
+
                                         </div>
+
+
 
                                     </a>
 
+
+
                                 </figure>
 
+
+
                             </li>
-							 <!--
+
+							 
+
                             <li class="col-sm-3">
+
+
 
                                 <figure>
 
+
+
                                     <a href="{{ route("album", ["album" => "01012017"]) }}" class="info"> 
+
+
 
                                         <figcaption>
 
+
+
                                             <img src="<?php echo url("") ?>/images/events/sunday.png" alt="">
+
+
 
                                         </figcaption>
 
+
+
                                         <div class="content">
+
+
 
                                             <div class="eventHover">
 
+
+
                                                 <div class="event">
 
-                                                    Total RNB Night
+
+
+                                                    Ponedeljak sa Nama
+
+
 
                                                 </div>
+
+
 
                                                 <div class="fixLine"></div>
 
-                                                <div  class="evTitle"> SUNDAY  </div>
 
-                                                <div class="evSubtitle">DJ Prema</div>
+
+                                                <div  class="evTitle"> PONEDELJAK  </div>
+
+
+
+                                                <div class="evSubtitle">DRAGANA MAZA</div>
+
+
 
                                                 <div class="dateOfParty"> 
 
+
+
                                                     <div  class="evTitle"> next </div>
+
+
 
                                                     05/02/2017 
 
+
+
                                                 </div>
+
+
 
                                             </div>
 
+
+
                                         </div>
+
+
 
                                     </a>
 
+
+
                                 </figure>
 
+
+
                             </li>
-                            !-->
+
+                            
+
 			        
+
                         </ul>
+
+
+
+
 
 
 
@@ -1019,7 +2036,15 @@
 
 
 
+
+
+
+
                 </div>
+
+
+
+
 
 
 
@@ -1027,7 +2052,15 @@
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -1035,7 +2068,15 @@
 
 
 
+
+
+
+
 </section>
+
+
+
+
 
 
 
@@ -1047,7 +2088,19 @@
 
 
 
+
+
+
+
+
+
+
+
 <!-- =============== START BIOGRAPHY SECTION ================ -->
+
+
+
+
 
 
 
@@ -1055,7 +2108,15 @@
 
 
 
+
+
+
+
     <div class="container">
+
+
+
+
 
 
 
@@ -1063,7 +2124,15 @@
 
 
 
+
+
+
+
             <span class="heading-t3"></span>
+
+
+
+
 
 
 
@@ -1071,11 +2140,23 @@
 
 
 
+
+
+
+
             <span class="heading-b3"></span>
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -1083,11 +2164,23 @@
 
 
 
+
+
+
+
             <div class="col-sm-6">
 
 
 
+
+
+
+
                 <p>
+
+
+
+
 
 
 
@@ -1095,7 +2188,15 @@
 
 
 
+
+
+
+
                     Club Square is in the beautiful area of the city, at address Studentski trg 15, near the luxury hotel Square Nine. It's luxurious and elegant ambiance, as well as modern lighting and lighting effects.
+
+
+
+
 
 
 
@@ -1103,7 +2204,15 @@
 
 
 
+
+
+
+
             </div>
+
+
+
+
 
 
 
@@ -1111,7 +2220,15 @@
 
 
 
+
+
+
+
                 <p>
+
+
+
+
 
 
 
@@ -1119,7 +2236,15 @@
 
 
 
+
+
+
+
                     In this place you can also meet many celebrities from the world fashion, music, business, lot of beautiful girls ...  They are driving all the guys crazy!
+
+
+
+
 
 
 
@@ -1127,7 +2252,15 @@
 
 
 
+
+
+
+
                     Experience Hangover in Belgrade now !!!
+
+
+
+
 
 
 
@@ -1135,7 +2268,15 @@
 
 
 
+
+
+
+
                 <div class="signature">
+
+
+
+
 
 
 
@@ -1143,7 +2284,15 @@
 
 
 
+
+
+
+
                 </div>
+
+
+
+
 
 
 
@@ -1151,7 +2300,15 @@
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -1159,7 +2316,15 @@
 
 
 
+
+
+
+
 </section>
+
+
+
+
 
 
 
@@ -1171,7 +2336,19 @@
 
 
 
+
+
+
+
+
+
+
+
 <!-- =============== START HOME-BLOG SECTION ================ -->	
+
+
+
+
 
 
 
@@ -1179,7 +2356,15 @@
 
 
 
+
+
+
+
     <div class="container">
+
+
+
+
 
 
 
@@ -1187,7 +2372,15 @@
 
 
 
+
+
+
+
             <div class="sectionTitle">
+
+
+
+
 
 
 
@@ -1195,7 +2388,15 @@
 
 
 
+
+
+
+
                 <h2>News from the Club</h2>
+
+
+
+
 
 
 
@@ -1203,7 +2404,185 @@
 
 
 
+
+
+
+
                 <p>Here You will soon be able to read the latest news from our <a href="{{ route("news") }}">blog.</a> </p>
+
+
+
+
+
+
+
+            </div>
+
+			
+
+			
+
+			
+
+			 <div class="col-sm-4">
+
+
+
+
+
+
+
+                <div class="blogBox">	
+
+
+
+
+
+
+
+                    <div class="imgBox"><img src="<?php echo url("") ?>/images/blog/vas-petak7.jpg" alt="Petak je vece za klub SQUARE!"></div>
+
+
+
+
+
+
+
+                    <div class="blogBoxContent">
+
+
+
+
+
+
+
+                        <div class="blogHeader">
+
+
+
+
+
+
+
+                            <h1><a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">Petak je vece za klub SQUARE!</a></h1>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="admin-list clearfix">
+
+
+
+
+
+
+
+                            <ul>
+
+
+
+
+
+
+
+                                <li><a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">10 Feb 2017</a>&nbsp;&nbsp;</li>
+
+
+
+
+
+
+
+                            </ul>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="blogParagraph">
+
+
+
+
+
+
+
+                            <p> 
+
+							SPECIJALNA AKCIJA: Za poručenu flašu pića do 01:00h drugu dobijate potpuno besplatno!</p>
+
+
+
+
+
+
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="rmButton">
+
+
+
+
+
+
+
+                            <a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">Read More</a>
+
+
+
+
+
+
+
+                        </div>			
+
+
+
+
+
+
+
+                    </div>
+
+
+
+
+
+
+
+                </div>
+
+
+
+
 
 
 
@@ -1211,11 +2590,23 @@
 
 
 
+
+
+
+
             <div class="col-sm-4">
 
 
 
+
+
+
+
                 <div class="blogBox">	
+
+
+
+
 
 
 
@@ -1223,11 +2614,23 @@
 
 
 
+
+
+
+
                     <div class="blogBoxContent">
 
 
 
+
+
+
+
                         <div class="blogHeader">
+
+
+
+
 
 
 
@@ -1235,7 +2638,15 @@
 
 
 
+
+
+
+
                         </div>
+
+
+
+
 
 
 
@@ -1243,7 +2654,15 @@
 
 
 
+
+
+
+
                             <ul>
+
+
+
+
 
 
 
@@ -1251,7 +2670,15 @@
 
 
 
+
+
+
+
                             </ul>
+
+
+
+
 
 
 
@@ -1259,7 +2686,15 @@
 
 
 
+
+
+
+
                         <div class="blogParagraph">
+
+
+
+
 
 
 
@@ -1267,11 +2702,23 @@
 
 
 
+
+
+
+
                         </div>
 
 
 
+
+
+
+
                         <div class="rmButton">
+
+
+
+
 
 
 
@@ -1279,7 +2726,15 @@
 
 
 
+
+
+
+
                         </div>			
+
+
+
+
 
 
 
@@ -1287,7 +2742,15 @@
 
 
 
+
+
+
+
                 </div>
+
+
+
+
 
 
 
@@ -1295,11 +2758,23 @@
 
 
 
+
+
+
+
             <div class="col-sm-4">
 
 
 
+
+
+
+
                 <div class="blogBox">	
+
+
+
+
 
 
 
@@ -1307,11 +2782,23 @@
 
 
 
+
+
+
+
                     <div class="blogBoxContent">
 
 
 
+
+
+
+
                         <div class="blogHeader">
+
+
+
+
 
 
 
@@ -1319,7 +2806,15 @@
 
 
 
+
+
+
+
                         </div>
+
+
+
+
 
 
 
@@ -1327,7 +2822,15 @@
 
 
 
+
+
+
+
                             <ul>
+
+
+
+
 
 
 
@@ -1335,89 +2838,7 @@
 
 
 
-                            </ul>
 
-
-
-                        </div>
-
-
-
-                        <div class="blogParagraph">
-
-
-
-                            <p>Welcome to Square Club Belgrade - A new premier club in the heart of the city center. Experience the best nightlife Belgrade has to offer.
-
-booking: +381 69 20 10 110 <br> Soon... </p>
-
-
-
-                        </div>
-
-
-
-                        <div class="rmButton">
-
-
-
-                            <a href="{{ route("news") }}">Read More</a>
-
-
-
-                        </div>			
-
-
-
-                    </div>
-
-
-
-                </div>
-
-
-
-            </div>
-
-
-
-            <div class="col-sm-4">
-
-
-
-                <div class="blogBox">	
-
-
-
-                     <div class="videoBox"><iframe src="https://www.youtube.com/embed/QuaDhnRifXk" width="600" height="410"  ></iframe></div>
-
-
-
-                    <div class="blogBoxContent">
-
-
-
-                        <div class="blogHeader">
-
-
-
-                            <h1><a href="{{ route("news") }}">Sunday in Square Belgrade!</a></h1>
-
-
-
-                        </div>
-
-
-
-                        <div class="admin-list clearfix">
-
-
-
-                            <ul>
-
-
-
-                                <li><a href="{{ route("news") }}">01 Jan 2017</a>&nbsp;&nbsp;</li>
 
 
 
@@ -1425,7 +2846,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </div>
+
+
+
+
 
 
 
@@ -1433,9 +2862,19 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                             <p>Welcome to Square Club Belgrade - A new premier club in the heart of the city center. Experience the best nightlife Belgrade has to offer.
 
+
+
 booking: +381 69 20 10 110 <br> Soon... </p>
+
+
+
+
 
 
 
@@ -1443,7 +2882,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <div class="rmButton">
+
+
+
+
 
 
 
@@ -1451,7 +2898,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </div>			
+
+
+
+
 
 
 
@@ -1459,21 +2914,57 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 </div>
 
 
 
+
+
+
+
             </div>
+
+
+
+
+
+
+
+           
+
+
+
+
+
+            </div>
+
+
 
             <div class="col-sm-12 archive">
 
+
+
                 <a href="{{ route("news") }}">
+
                     <h3>MORE NEWS...</h3>
+
                 </a>
+
+
 
             </div>
 
+
+
         </div>	
+
+
+
+
 
 
 
@@ -1481,7 +2972,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
 </section>
+
+
+
+
 
 
 
@@ -1493,490 +2992,981 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
+
+
+
+
 <!-- =============== START GALLERY SECTION ================ -->
+
+
 
 <section id="photos" class="photoHome padding gallerySection" id="content">
 
+
+
     <div class="container" style="padding:0;">
+
         <div class="row">
+
+
 
             <div class="sectionTitle">
 
+
+
                 <span class="heading-t3"></span>
+
+
 
                 <h2>PHOTO GALLERY</h2>
 
+
+
                 <span class="heading-b3"></span>
+
+
 
                 <p>Check out our latest photos and follow us on <a href="https://www.facebook.com/SquareClubBelgrade">Facebook</a> 
 
+
+
                     or <a href="https://www.instagram.com/square_club_belgrade/">Instagram</a> to view more.</p>
+
+
 
             </div>
 
+
+
             <div class="col-sm-12">
+
+
 
                 <div class="content-container clearfix">
 
+
+
                     <div class="single-photo-album-container">
 
+
+
                         <div class="row">
+
                             
-                            
-                           
-                            <!-- Single Album Article -->
 
-                            <article class="col-sm-4">
-
-                                <figure>
-
-                                    <!-- Single Album Image -->
-
-                                    <figcaption>
-
-                                        <div class="hovereffect">
-
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_06022017/cover.jpg" alt="">
-
-                                        </div>
-
-                                    </figcaption>
-
-                                    <div class="album-title">
-
-                                        06/02/2017
-
-                                    </div>
-
-                                    <div class="content">
-
-                                        <div class="eventHover">
-
-                                            <div class="event">
-
-                                                06/02/2017
-
-                                            </div>
-
-                                            <div class="fixLine"></div>
-
-                                            <div  class="evSubtitle"> 
-
-                                                <a href="{{ route("album", ["album" => "06022017"]) }}" class="info"> view album </a>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                </figure>
-
-                            </article>
-                            
                              
+
                             
+
                             <!-- Single Album Article -->
+
+
 
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
+
 
                                     <!-- Single Album Image -->
 
+
+
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
+
 
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_04022017/cover.jpg" alt="">
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         04/02/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 04/02/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "04022017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                             
+
                              
+
                             <!-- Single Album Article -->
+
+
 
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
+
 
                                     <!-- Single Album Image -->
 
+
+
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
+
 
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_03022017/cover.jpg" alt="">
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         03/02/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 03/02/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "03022017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                             
+
                             <article class="col-sm-4">
+
+
 
                                 <figure>
 
+
+
                                     <!-- Single Album Image -->
+
+
 
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
+
 
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_02022017/cover.jpg" alt="">
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         02/02/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 02/02/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "02022017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                           
+
                             
-                           <!-- Single Album Article -->
 
-                            <article class="col-sm-4">
-
-                                <figure>
-
-                                    <!-- Single Album Image -->
-
-                                    <figcaption>
-
-                                        <div class="hovereffect">
-
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_interior/cover.jpg" alt="">
-
-                                        </div>
-
-                                    </figcaption>
-
-                                    <div class="content" id="interior">
-
-                                        <div class="eventHover">
-
-                                            <div class="event">
-
-                                                interior
-
-                                            </div>
-
-                                            <div class="fixLine"></div>
-
-                                            <div  class="evSubtitle"> 
-
-                                                <a href="{{ route("album", ["album" => "interior"]) }}" class="info"> view album </a>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                </figure>
-
-                            </article>
+                           
 
                               
+
                             
+
                             <!-- Single Album Article -->
+
+
 
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
+
 
                                     <!-- Single Album Image -->
 
+
+
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
+
 
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_28012017/cover.jpg" alt="">
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         28/01/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 28/01/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "28012017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                             
-                            
-                                
-                          <!-- Single Album Article -->
+
+                            <!-- Single Album Article -->
+
+
 
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
+
 
                                     <!-- Single Album Image -->
 
+
+
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
+
+
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_interior/cover.jpg" alt="">
+
+
+
+                                        </div>
+
+
+
+                                    </figcaption>
+
+
+
+                                    <div class="content" id="interior">
+
+
+
+                                        <div class="eventHover">
+
+
+
+                                            <div class="event">
+
+
+
+                                                interior
+
+
+
+                                            </div>
+
+
+
+                                            <div class="fixLine"></div>
+
+
+
+                                            <div  class="evSubtitle"> 
+
+
+
+                                                <a href="{{ route("album", ["album" => "interior"]) }}" class="info"> view album </a>
+
+
+
+                                            </div>
+
+
+
+                                        </div>
+
+
+
+                                    </div>
+
+
+
+                                </figure>
+
+
+
+                            </article>
+
+
+
+                                
+
+                          <!-- Single Album Article -->
+
+
+
+                            <article class="col-sm-4">
+
+
+
+                                <figure>
+
+
+
+                                    <!-- Single Album Image -->
+
+
+
+                                    <figcaption>
+
+
+
+                                        <div class="hovereffect">
+
+
 
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_27012017/cover.jpg" alt="">        
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         27/01/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 27/01/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "27012017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                            
+
                           
+
                           
+
+
 
 			 <!-- Single Album Article -->
 
+
+
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
                                     <!-- Single Album Image -->
+
                                     <figcaption>
 
+
+
                                         <div class="hovereffect">
+
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_26012017/cover.jpg" alt="">        
+
+
 
                                         </div>
 
+
+
                                     </figcaption>
+
                                     <div class="album-title">
+
                                         
+
                                         26/01/2017
+
+
 
                                     </div>
 
+
+
                                     <div class="content">
+
+
 
                                         <div class="eventHover">
 
+
+
                                             <div class="event">
+
+
 
                                                 26/01/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "26012017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
+
 
                                 </figure>
 
+
+
                             </article>
+
                          
+
                             
+
                             <!-- Single Album Article -->
+
+
 
                             <article class="col-sm-4">
 
+
+
                                 <figure>
+
+
 
                                     <!-- Single Album Image -->
 
+
+
                                     <figcaption>
+
+
 
                                         <div class="hovereffect">
 
+
+
                                             <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_21012017/cover.jpg" alt="">
 
+
+
                                         </div>
+
+
 
                                     </figcaption>
 
+
+
                                     <div class="album-title">
+
+
 
                                         21/01/2017
 
+
+
                                     </div>
+
+
 
                                     <div class="content">
 
+
+
                                         <div class="eventHover">
+
+
 
                                             <div class="event">
 
+
+
                                                 21/01/2017
 
+
+
                                             </div>
+
+
 
                                             <div class="fixLine"></div>
 
+
+
                                             <div  class="evSubtitle"> 
+
+
 
                                                 <a href="{{ route("album", ["album" => "21012017"]) }}" class="info"> view album </a>
 
+
+
                                             </div>
+
+
 
                                         </div>
 
+
+
                                     </div>
+
                                 </figure>
 
+
+
                             </article>
+
                          
-                            
+
                            
+
                             <!-- Single Album Article -->
+
+
+
+                            <article class="col-sm-4">
+
+
+
+                                <figure>
+
+
+
+                                    <!-- Single Album Image -->
+
+
+
+                                    <figcaption>
+
+
+
+                                        <div class="hovereffect">
+
+
+
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_19012017/cover.jpg" alt="">
+
+
+
+                                        </div>
+
+
+
+                                    </figcaption>
+
+
+
+                                    <div class="album-title">
+
+
+
+                                        19/01/2017
+
+
+
+                                    </div>
+
+
+
+                                    <div class="content">
+
+
+
+                                        <div class="eventHover">
+
+
+
+                                            <div class="event">
+
+
+
+                                                19/01/2017
+
+
+
+                                            </div>
+
+
+
+                                            <div class="fixLine"></div>
+
+
+
+                                            <div  class="evSubtitle"> 
+
+
+
+                                                <a href="{{ route("album", ["album" => "19012017"]) }}" class="info"> view album </a>
+
+
+
+                                            </div>
+
+
+
+                                        </div>
+
+
+
+                                    </div>
+
+
+
+                                </figure>
+
+
+
+                            </article>
+
+                            
+
+                           
+
+                            <!-- Single Album Article -->
+
                         </div>
+
+
+
+
 
 
 
@@ -1984,7 +3974,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 </div>
+
+
+
+
 
 
 
@@ -1992,7 +3990,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -2000,7 +4006,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
 </section>
+
+
+
+
 
 
 
@@ -2012,7 +4026,19 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
+
+
+
+
 <!-- =============== START VIDEO SECTION ================ -->
+
+
+
+
 
 
 
@@ -2020,7 +4046,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
     <div class="container">
+
+
+
+
 
 
 
@@ -2028,7 +4062,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             <div class="sectionTitle">
+
+
+
+
 
 
 
@@ -2036,7 +4078,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 <h2>VIDEO GALLERY</h2>
+
+
+
+
 
 
 
@@ -2044,7 +4094,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 <p>Check out our latest videos and follow us on <a href="https://www.youtube.com/channel/UCYZ2dDvtu-ciQDaxhCGO2qA">Youtube</a> to view more.</p>
+
+
+
+
 
 
 
@@ -2052,7 +4110,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             <div class="col-sm-4">
+
+
+
+
 
 
 
@@ -2060,11 +4126,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             </div>
 
 
 
+
+
+
+
             <div class="col-sm-4">
+
+
+
+
 
 
 
@@ -2072,7 +4150,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             </div>
+
+
+
+
 
 
 
@@ -2080,7 +4166,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/ve1z3DgApB8"  allowfullscreen></iframe>
+
+
+
+
 
 
 
@@ -2088,7 +4182,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -2096,7 +4198,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
 </section>
+
+
+
+
 
 
 
@@ -2108,7 +4218,19 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
+
+
+
+
 <!-- =============== START ALBUM COVER SECTION ================ -->
+
+
+
+
 
 
 
@@ -2116,7 +4238,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
     <div class="container">
+
+
+
+
 
 
 
@@ -2124,7 +4254,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             <div class="col-sm-12">
+
+
+
+
 
 
 
@@ -2132,7 +4270,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     <span class="heading-t3"></span>
+
+
+
+
 
 
 
@@ -2140,7 +4286,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     <span class="heading-b3"></span>
+
+
+
+
 
 
 
@@ -2148,11 +4302,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             </div>
 
 
 
+
+
+
+
         </div>
+
+
+
+
 
 
 
@@ -2160,11 +4326,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             <ul class="list-feature col-md-12 col-xs-12 col-sm-12">
 
 
 
+
+
+
+
                 <li class="col-md-3 col-sm-3 col-xs-12">
+
+
+
+
 
 
 
@@ -2172,7 +4350,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <span class="thumbs-album">
+
+
+
+
 
 
 
@@ -2180,7 +4366,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </span>
+
+
+
+
 
 
 
@@ -2188,11 +4382,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
 
 
 
+
+
+
+
                     <div class="name">
+
+
+
+
 
 
 
@@ -2200,7 +4406,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <p>NINETIES</p>								
+
+
+
+
 
 
 
@@ -2208,11 +4422,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 </li>
 
 
 
+
+
+
+
                 <li class="col-md-3 col-sm-3 col-xs-12">
+
+
+
+
 
 
 
@@ -2220,7 +4446,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <span class="thumbs-album">
+
+
+
+
 
 
 
@@ -2228,7 +4462,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </span>
+
+
+
+
 
 
 
@@ -2236,7 +4478,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -2244,7 +4494,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
-                        <h3>Scandal Band</h3>
+
+
+
+
+                        <h3>Tamara Tokovic & Nemanja Staletovic</h3>
+
+
+
+
 
 
 
@@ -2252,7 +4510,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -2260,7 +4526,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 <li class="col-md-3 col-sm-3 col-xs-12">
+
+
+
+
 
 
 
@@ -2268,7 +4542,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <span class="thumbs-album">
+
+
+
+
 
 
 
@@ -2276,7 +4558,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </span>
+
+
+
+
 
 
 
@@ -2284,11 +4574,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
 
 
 
+
+
+
+
                     <div class="name">
+
+
+
+
 
 
 
@@ -2296,11 +4598,23 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <p>Mix R'n'B & House</p>								
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -2308,7 +4622,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                 <li class="col-md-3 col-sm-3 col-xs-12">
+
+
+
+
 
 
 
@@ -2316,7 +4638,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <span class="thumbs-album">
+
+
+
+
 
 
 
@@ -2324,7 +4654,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         </span>
+
+
+
+
 
 
 
@@ -2332,7 +4670,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -2340,7 +4686,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                         <h3>DJ Prema</h3>
+
+
+
+
 
 
 
@@ -2348,7 +4702,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
                     </div>
+
+
+
+
 
 
 
@@ -2356,7 +4718,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
             </ul>
+
+
+
+
 
 
 
@@ -2364,7 +4734,15 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
     </div>
+
+
+
+
 
 
 
@@ -2372,6 +4750,12 @@ booking: +381 69 20 10 110 <br> Soon... </p>
 
 
 
+
+
+
+
 <!-- =============== END ALBUM COVER SECTION ================ -->
+
+
 
 @stop
