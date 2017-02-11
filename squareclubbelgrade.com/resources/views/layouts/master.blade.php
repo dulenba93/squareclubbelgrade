@@ -574,6 +574,7 @@
 
 
 						<option value="Subota 11.2.2017.">Saturday | 11.2.2017. | Blood & Mode</option>
+						<option value="Petak 17.2.2017.">Monday | 17.2.2017. | Live act</option>
 
 
                                    <!--             <option value="Nedelja 12.2.2017." selected="true">Sunday | 12.2.2017. | Total RnB</option> -->
@@ -586,7 +587,7 @@
 
 
 						<option value="Subota 18.2.2017.">Saturday | 18.2.2017. | Blood & Mode</option>
-
+						<option value="Petak 17.2.2017.">Monday | 17.2.2017. | Live act</option>
 
                                             <!--    <option value="Nedelja 19.2.2017." selected="true">Sunday | 19.2.2017. | Total RnB</option> -->
                                                

@@ -57,9 +57,31 @@
                 <div class="col-sm-8 page" id="1">
                     <div class="blogBox">	
                         <div class="owl-carousel">
-                            <div class="item"><img src="<?php echo url("") ?>/images/blog/roby-rob4.png" alt=""></div>
+                            <div class="item"><img src="<?php echo url("") ?>/images/blog/nas-petak7.jpg" alt=""></div>
                         </div>	
                         <div class="blogBoxContent">
+                            <div class="blogHeader">
+                                <h1><a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">Petak-je-vece-za-klub-square</a></h1>
+                            </div>
+                            <div class="admin-list clearfix">
+                                <ul>
+                                    <li><a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">10 Feb 2017</a>&nbsp;/&nbsp;</li>
+                                    <li><a href="{{ route("news") }}">News</a>&nbsp;/&nbsp;</li>
+                                    <li><a href="{{ route("/") }}#events">Event</a>&nbsp;/&nbsp;</li>
+                                    <li><a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">Petak je veče za klub SQUARE</a>&nbsp;/&nbsp;</li>
+                                </ul>
+                            </div>
+                            <div class="blogParagraph">
+                                <p>   Ovog petka posetite novootvoreni Beogradski noćni klub <a href="www.squareclubbelgrade.com">Square </a>i sigurno nećete pogrešiti. Čekaju vas popularni pevači zabavne i narodne muzike - Nemanja Staletović i Tamara Toković. 
+								</p>
+                            </div><!--end blogParagraph  -->
+                            <div class="rmButton">
+                                <a href="{{ route("blog", ["blog_id" => "Petak-je-vece-za-klub-square"]) }}">Read More</a>
+                            </div>			
+                        </div>
+						
+						
+						   <div class="blogBoxContent">
                             <div class="blogHeader">
                                 <h1><a href="{{ route("blog", ["blog_id" => "Roby-Rob-in-Square-this-Saturday"]) }}">Roby Rob in Square this Saturday</a></h1>
                             </div>
