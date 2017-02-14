@@ -567,15 +567,7 @@
                               
 
                                                
-                                                <option value="Cetvrtak 9.2.2017.">Thursday | 9.2.2017. | The Nineties</option>
-
-
-                                                <option value="Petak 10.2.2017.">Friday | 10.2.2017. | Live act</option>
-
-
-						<option value="Subota 11.2.2017.">Saturday | 11.2.2017. | Blood & Mode</option>
-						<option value="Petak 17.2.2017.">Monday | 17.2.2017. | Live act</option>
-
+                                                
 
                                    <!--             <option value="Nedelja 12.2.2017." selected="true">Sunday | 12.2.2017. | Total RnB</option> -->
                                                
@@ -587,7 +579,19 @@
 
 
 						<option value="Subota 18.2.2017.">Saturday | 18.2.2017. | Blood & Mode</option>
-						<option value="Petak 17.2.2017.">Monday | 17.2.2017. | Live act</option>
+                                                
+						<option value="Ponedeljak 20.2.2017.">Monday | 20.2.2017. | Ponedeljak sa nama</option>
+                                                
+                                                <option value="Cetvrtak 23.2.2017.">Thursday | 23.2.2017. | The Nineties</option>
+
+
+                                                <option value="Petak 24.2.2017.">Friday | 24.2.2017. | Live act</option>
+
+
+						<option value="Subota 25.2.2017.">Saturday | 25.2.2017. | Blood & Mode</option>
+                                                
+						<option value="Ponedeljak 27.2.2017.">Monday | 27.2.2017. | Ponedeljak sa nama</option>
+
 
                                             <!--    <option value="Nedelja 19.2.2017." selected="true">Sunday | 19.2.2017. | Total RnB</option> -->
                                                
@@ -720,7 +724,7 @@
 
 
 
-                                                <li>Sunday 23:30 - 05h </li>                                               
+                                                <li>Monday 23:30 - 05h </li>                                               
 
 
 
@@ -949,7 +953,7 @@
 
 
 
-                                    <li>Sunday 23:30 - 05h </li>                                               
+                                    <li>Monday 23:30 - 05h </li>                                               
 
 
 
