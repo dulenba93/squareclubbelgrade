@@ -1702,7 +1702,7 @@
 
                                                 <div  class="evTitle"> FRIDAY </div>
 
-                                                <div class="evSubtitle">| Mirče Radulović | Kristina Kuzmanovska |</div>
+                                                <div class="evSubtitle">| Boris Stjepanović | Milena Mici Sandić |</div>
 
                                                 <div class="dateOfParty"> 
 
