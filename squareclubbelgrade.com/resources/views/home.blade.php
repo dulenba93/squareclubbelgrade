@@ -1680,7 +1680,7 @@
 
                                 <figure>
 
-                                    <a href="{{ route("album", ["album" => "10032017"]) }}" class="info">
+                                    <a href="{{ route("album", ["album" => "17032017"]) }}" class="info">
 
                                         <figcaption>
 
