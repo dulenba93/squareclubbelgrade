@@ -1694,7 +1694,7 @@
 
                                                 <div class="event">
 
-                                                    POP ROCK HITS
+                                                    Zeka | Tanja CukiĆ
 
                                                 </div>
 
@@ -1702,7 +1702,7 @@
 
                                                 <div  class="evTitle"> FRIDAY </div>
 
-                                                <div class="evSubtitle">| Boris Stjepanović | Milena Mici Sandić |</div>
+                                                <div class="evSubtitle">& No Limit Band </div>
 
                                                 <div class="dateOfParty"> 
 
