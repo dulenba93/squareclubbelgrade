@@ -830,7 +830,7 @@
 
                                 <figure>
 
-                                    <a href="{{ route("album", ["album" => "02022017"]) }}" class="info">
+                                    <a href="{{ route("album", ["album" => "20042017"]) }}" class="info">
 
                                         <figcaption>
 
@@ -858,7 +858,7 @@
 
                                                     <div  class="evTitle"> next </div>
 
-							  20/04/2017 
+							  04/05/2017 
 
                                                 </div>
 
@@ -876,7 +876,7 @@
 
                                 <figure>
 
-                                    <a href="{{ route("album", ["album" => "03022017"]) }}" class="info">
+                                    <a href="{{ route("album", ["album" => "21042017"]) }}" class="info">
 
                                         <figcaption>
 
@@ -904,7 +904,7 @@
 
                                                     <div  class="evTitle"> next </div>
 
-                                                    21/04/2017 
+                                                    05/05/2017 
 
                                                 </div>
 
@@ -922,7 +922,7 @@
 
                                 <figure>
 
-                                    <a href="{{ route("album", ["album" => "04022017"]) }}" class="info">
+                                    <a href="{{ route("album", ["album" => "15042017"]) }}" class="info">
 
                                         <figcaption>
 
@@ -950,7 +950,7 @@
 
                                                     <div  class="evTitle"> next </div>
 
-                                                    20/04/2017 
+                                                    06/05/2017 
 
                                                 </div>
 
@@ -968,7 +968,7 @@
 
                                 <figure>
 
-                                    <a href="{{ route("album", ["album" => "01012017"]) }}" class="info"> 
+                                    <a href="{{ route("album", ["album" => "16042017"]) }}" class="info"> 
 
                                         <figcaption>
 
@@ -996,7 +996,7 @@
 
                                                     <div  class="evTitle"> next </div>
 
-                                                    05/02/2017 
+                                                    08/05/2017 
 
                                                 </div>
 
@@ -1536,7 +1536,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_01042017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_21042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1544,7 +1544,7 @@
 
                                     <div class="album-title">
 
-                                        06/02/2017
+                                        21/04/2017
 
                                     </div>
 
@@ -1554,7 +1554,7 @@
 
                                             <div class="event">
 
-                                                06/02/2017
+                                                21/04/2017
 
                                             </div>
 
@@ -1562,7 +1562,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "06022017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "21042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1588,7 +1588,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_15042017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_20042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1596,7 +1596,7 @@
 
                                     <div class="album-title">
 
-                                        04/02/2017
+                                        20/04/2017
 
                                     </div>
 
@@ -1606,7 +1606,7 @@
 
                                             <div class="event">
 
-                                                04/02/2017
+                                                20/04/2017
 
                                             </div>
 
@@ -1614,7 +1614,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "04022017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "20042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1639,7 +1639,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_08042017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_17042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1647,7 +1647,7 @@
 
                                     <div class="album-title">
 
-                                        03/02/2017
+                                        17/04/2017
 
                                     </div>
 
@@ -1657,7 +1657,7 @@
 
                                             <div class="event">
 
-                                                03/02/2017
+                                                17/04/2017
 
                                             </div>
 
@@ -1665,7 +1665,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "03022017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "17042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1687,7 +1687,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_06042017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_16042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1695,7 +1695,7 @@
 
                                     <div class="album-title">
 
-                                        02/02/2017
+                                        16/04/2017
 
                                     </div>
 
@@ -1705,7 +1705,7 @@
 
                                             <div class="event">
 
-                                                02/02/2017
+                                                16/04/2017
 
                                             </div>
 
@@ -1713,7 +1713,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "02022017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "16042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1784,7 +1784,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_28012017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_15042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1792,7 +1792,7 @@
 
                                     <div class="album-title">
 
-                                        28/01/2017
+                                        15/04/2017
 
                                     </div>
 
@@ -1802,7 +1802,7 @@
 
                                             <div class="event">
 
-                                                28/01/2017
+                                                15/04/2017
 
                                             </div>
 
@@ -1810,7 +1810,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "28012017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "15042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1836,7 +1836,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_27012017/cover.jpg" alt="">        
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_13042017/cover.jpg" alt="">        
 
                                         </div>
 
@@ -1844,7 +1844,7 @@
 
                                     <div class="album-title">
 
-                                        27/01/2017
+                                        13/04/2017
 
                                     </div>
 
@@ -1854,7 +1854,7 @@
 
                                             <div class="event">
 
-                                                27/01/2017
+                                                13/04/2017
 
                                             </div>
 
@@ -1862,7 +1862,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "27012017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "13042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1886,14 +1886,14 @@
                                     <figcaption>
 
                                         <div class="hovereffect">
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_26012017/cover.jpg" alt="">        
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_10042017/cover.jpg" alt="">        
 
                                         </div>
 
                                     </figcaption>
                                     <div class="album-title">
                                         
-                                        26/01/2017
+                                        10/04/2017
 
                                     </div>
 
@@ -1903,7 +1903,7 @@
 
                                             <div class="event">
 
-                                                26/01/2017
+                                                10/04/2017
 
                                             </div>
 
@@ -1911,7 +1911,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "26012017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "10042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
@@ -1936,7 +1936,7 @@
 
                                         <div class="hovereffect">
 
-                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_21012017/cover.jpg" alt="">
+                                            <img class="img-responsive" src="<?php echo url("") ?>/images/albums/album_08042017/cover.jpg" alt="">
 
                                         </div>
 
@@ -1944,7 +1944,7 @@
 
                                     <div class="album-title">
 
-                                        21/01/2017
+                                        08/04/2017
 
                                     </div>
 
@@ -1954,7 +1954,7 @@
 
                                             <div class="event">
 
-                                                21/01/2017
+                                                08/04/2017
 
                                             </div>
 
@@ -1962,7 +1962,7 @@
 
                                             <div  class="evSubtitle"> 
 
-                                                <a href="{{ route("album", ["album" => "21012017"]) }}" class="info"> view album </a>
+                                                <a href="{{ route("album", ["album" => "08042017"]) }}" class="info"> view album </a>
 
                                             </div>
 
