@@ -578,25 +578,27 @@
                                                
                                                 
                                                 
-                                                <option value="Cetvrtak 13.4.2017.">Thursday | 13.4.2017. | The Nineties</option>
-
-
-                                                <option value="Petak 14.4.2017.">Friday | 14.4.2017. | Pop rock hits</option>
-
-
-						<option value="Subota 15.4.2017.">Saturday | 15.4.2017. | Blood & Mode</option>
                                                 
-						<option value="Ponedeljak 17.4.2017.">Monday | 17.4.2017. | Ponedeljak sa nama</option>
                                                 
-                                                 <option value="Cetvrtak 20.4.2017.">Thursday | 20.4.2017. | The Nineties</option>
+                                                <option value="Cetvrtak 4.5.2017.">Thursday | 4.5.2017. | The Nineties</option>
 
 
-                                                <option value="Petak 21.4.2017.">Friday | 21.4.2017. | Pop rock hits</option>
+                                                <option value="Petak 5.5.2017.">Friday | 5.5.2017. | Pop rock hits</option>
 
 
-						<option value="Subota 22.4.2017.">Saturday | 22.4.2017. | Blood & Mode</option>
+						<option value="Subota 6.5.2017.">Saturday | 6.5.2017. | Blood & Mode</option>
                                                 
-						<option value="Ponedeljak 24.4.2017.">Monday | 24.4.2017. | Ponedeljak sa nama</option>
+						<option value="Ponedeljak 8.5.2017.">Monday | 8.5.2017. | Ponedeljak sa nama</option>
+                                                
+                                                 <option value="Cetvrtak 11.5.2017.">Thursday | 11.5.2017. | The Nineties</option>
+
+
+                                                <option value="Petak 12.5.2017.">Friday | 12.5.2017. | Pop rock hits</option>
+
+
+						<option value="Subota 13.5.2017.">Saturday | 13.5.2017. | Blood & Mode</option>
+                                                
+						<option value="Ponedeljak 15.5.2017.">Monday | 15.5.2017. | Ponedeljak sa nama</option>
                                                 
 
                                             <!--    <option value="Nedelja 19.2.2017." selected="true">Sunday | 19.2.2017. | Total RnB</option> -->
