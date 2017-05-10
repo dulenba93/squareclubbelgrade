@@ -580,15 +580,6 @@
                                                 
                                                 
                                                 
-                                                <option value="Cetvrtak 4.5.2017.">Thursday | 4.5.2017. | The Nineties</option>
-
-
-                                                <option value="Petak 5.5.2017.">Friday | 5.5.2017. | Pop rock hits</option>
-
-
-						<option value="Subota 6.5.2017.">Saturday | 6.5.2017. | Blood & Mode</option>
-                                                
-						<option value="Ponedeljak 8.5.2017.">Monday | 8.5.2017. | Ponedeljak sa nama</option>
                                                 
                                                  <option value="Cetvrtak 11.5.2017.">Thursday | 11.5.2017. | The Nineties</option>
 
@@ -599,6 +590,16 @@
 						<option value="Subota 13.5.2017.">Saturday | 13.5.2017. | Blood & Mode</option>
                                                 
 						<option value="Ponedeljak 15.5.2017.">Monday | 15.5.2017. | Ponedeljak sa nama</option>
+                                                
+                                                <option value="Cetvrtak 18.5.2017.">Thursday | 18.5.2017. | The Nineties</option>
+
+
+                                                <option value="Petak 19.5.2017.">Friday | 19.5.2017. | Pop rock hits</option>
+
+
+						<option value="Subota 20.5.2017.">Saturday | 20.5.2017. | Blood & Mode</option>
+                                                
+						<option value="Ponedeljak 22.5.2017.">Monday | 22.5.2017. | Ponedeljak sa nama</option>
                                                 
 
                                             <!--    <option value="Nedelja 19.2.2017." selected="true">Sunday | 19.2.2017. | Total RnB</option> -->
